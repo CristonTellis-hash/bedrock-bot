@@ -15,7 +15,7 @@ const server = http.createServer((req, res) => {
   res.end('Bot Status: Active and Running');
 });
 
-server.listen(3000, () => {
+server.listen(10000, () => {
   console.log('✅ Web server is live! Ready for UptimeRobot monitoring.');
 });
 
