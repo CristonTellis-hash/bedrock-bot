@@ -3,7 +3,7 @@ const http = require('http');
 
 // 1. CHOOSE YOUR SERVER SETTINGS
 const options = {
-  host: 'Blablqblacksheep.enderman.cloud',          // Replace with your FreeMcServer IP (e.g., 'xyz.freemcserver.net')
+  host: '37.27.125.16:45880',          // Replace with your FreeMcServer IP (e.g., 'xyz.freemcserver.net')
   port: 45880,                         // Replace with your FreeMcServer Port (usually 19132)
   username: 'pianoguesses@outlook.com', // Your secondary Microsoft account email
   offline: false                       // Must be false to log into official Microsoft accounts
